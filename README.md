@@ -5,8 +5,8 @@ Trabalho desenvolvido durante a disciplina de Banco de Dados do Integrado
 
 ### 1. COMPONENTES<br>
 Integrantes do grupo<br>
-Gustavo Dutra: email_primeiro_componente@dominio.com<br>
-Marina Milagres:nafkyn@gmail.com<br>
+Gustavo Dutra: gdsantolin@gmail.com<br>
+segundo_componente_do_grupo:email_segundo_componente@dominio.com<br>
 ...
 
 ### 2.INTRODUÇÃO E MOTIVAÇAO<br>
