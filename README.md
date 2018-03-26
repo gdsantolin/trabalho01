@@ -18,13 +18,12 @@ Este documento contém a especificação do projeto do banco de dados Biblioteca
 
 ### 3.MINI-MUNDO<br>
 
-Descrever o mini-mundo! (Não deve ser maior do que 30 linhas) <br>
-Entrevista com o usuário e identificação dos requisitos.<br>
 Descrição textual das regras de negócio definidas como um  subconjunto do mundo real 
 cujos elementos são propriedades que desejamos incluir, processar, armazenar, 
 gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
 
-> O sistema proposto conterá as informacões aqui detalhadas. Serão armazenados o nome dos livros, o gênero ao qual pertencem, nome do autor, número de usuários que leram o livro, comentários, resenhas, livros de gênero parecido e indicações para o usuário. No perfil do usuário, serão armazenados os livros que ele leu, os que ele tem interesse, eventos que ele confirmou presença/já foi, amizades com outros usuários, resenhas e recomendações. Além disso, cada perfil deverá ter obrigatoriamente um e-mail (que deverá ser validado), um nome e uma linguagem principal; e opcionalmente, a localização (necessária para receber atualizações de encontros e lançamentos), foto de perfil, outras linguagens, autor e livro preferido. 
+
+> O sistema proposto conterá as informacões aqui detalhadas. Serão armazenados o nome dos livros, o gênero ao qual pertencem, nome do autor, número de usuários que leram o livro, comentários, resenhas, livros de gênero parecido e indicações para o usuário. No perfil do usuário, serão armazenados os livros que ele leu, os que ele tem interesse, eventos que ele confirmou presença/já foi, amizades com outros usuários, resenhas e recomendações. Além disso, cada perfil deverá ter obrigatoriamente um e-mail (que deverá ser validado), um nome e uma linguagem principal; e opcionalmente, a localização (necessária para receber atualizações de encontros e lançamentos), foto de perfil, outras linguagens, autor e livro preferido. No perfil de cada autor, será armazenado os livros que ele escreveu, comentários, autores parecidos, livro mais vendido e eventos que comparecerá.
 
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
