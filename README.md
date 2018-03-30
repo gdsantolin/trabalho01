@@ -29,6 +29,7 @@ gerenciar, atualizar, e que descrevem a proposta/solução a ser desenvolvida.
 > No perfil do usuário, serão armazenados os livros que ele já leu, os que ele tem interesse, eventos que ele confirmou presença/já foi, amizades com outros usuários, resenhas e recomendações. Além disso, cada perfil deverá ter obrigatoriamente um e-mail (que deverá ser validado), um nome e uma linguagem principal; e opcionalmente, a localização (necessária para receber atualizações de encontros e lançamentos), foto de perfil, outras linguagens, autor e livro preferido.
 > No perfil de cada autor, serão armazenadas suas informações básicas, como nome, data de nascimento, idade atual (ou data da morte), os livros que ele escreveu (organizado em ordem de lançamento), autores parecidos (que serão determinados comparando os gêneros literários em comum), livro mais vendido e eventos que comparecerá. Os usuários poderão comentar no perfil dos autores e enviar resenhas dos livros.
 > O usuário poderá procurar outros usuários, livros ou autores por meio de uma barra de pesquisa. Para facilitar, ao pesquisar um nome qualquer, haverão seções de "livros", "usuários" e "autores".
+> 
 
 
 ### 4.RASCUNHOS BÁSICOS DA INTERFACE (MOCKUPS)<br>
